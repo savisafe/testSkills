@@ -8,35 +8,7 @@ body {
 .header-img{
     width: 320px;
     height: 221px;
-    background: url("assets/img/header-img-320.png") no-repeat;
-}
-
-.container-button-install{
-
-}
-
-.button-install-app{
-
-}
-
-.img-snowflake{
-
-}
-
-.container-img-single-snowflake{
-
-}
-
-.img-single-snowflake{
-
-}
-
-.container {
-
-}
-
-.title-details-section{
-
+    background: url("assets/img/header-img-320.png");
 }
 
 @font-face {

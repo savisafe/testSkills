@@ -10,7 +10,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="479ebf2f-61a7-4fbe-a738-d2afbc10baf9" name="Default Changelist" comment="update html, css" />
+    <list default="true" id="479ebf2f-61a7-4fbe-a738-d2afbc10baf9" name="Default Changelist" comment="test">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -80,7 +83,8 @@
       <workItem from="1645970576195" duration="617000" />
       <workItem from="1645973860992" duration="1751000" />
       <workItem from="1645975823048" duration="1867000" />
-      <workItem from="1645977725743" duration="394000" />
+      <workItem from="1645977725743" duration="638000" />
+      <workItem from="1645978701839" duration="443000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1645888173043</created>
@@ -187,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645977261995</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="test">
+      <created>1645978217171</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1645978217171</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,9 +222,9 @@
     <MESSAGE value="add assets" />
     <MESSAGE value="update css" />
     <MESSAGE value="update html" />
-    <MESSAGE value="test" />
     <MESSAGE value="update html, css" />
-    <option name="LAST_COMMIT_MESSAGE" value="update html, css" />
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
   </component>
   <component name="WindowStateProjectService">
     <state x="845" y="383" key="#Notifications" timestamp="1645977494456">
@@ -228,10 +239,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645977487343" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1645977266332">
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1645978232609">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1645977266332" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1645978232609" />
     <state x="736" y="341" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1645958189636" />
     <state x="761" y="715" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1645974440969">
       <screen x="0" y="0" width="1920" height="1040" />
