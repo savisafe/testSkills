@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="479ebf2f-61a7-4fbe-a738-d2afbc10baf9" name="Default Changelist" comment="update html, css" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Saveliy &lt;savisafe@vk.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
+  </component>
+  <component name="ProjectId" id="25cC52kQdNxvEfNg2Q4ldNYj54i" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="479ebf2f-61a7-4fbe-a738-d2afbc10baf9" name="Default Changelist" comment="" />
+      <created>1645816800662</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645816800662</updated>
+      <workItem from="1645816802042" duration="307000" />
+      <workItem from="1645817664553" duration="852000" />
+      <workItem from="1645819292758" duration="5472000" />
+      <workItem from="1645856880529" duration="7702000" />
+      <workItem from="1645873411255" duration="46000" />
+      <workItem from="1645873883887" duration="4261000" />
+      <workItem from="1645883753928" duration="1848000" />
+      <workItem from="1645889042545" duration="5865000" />
+      <workItem from="1645957928312" duration="1070000" />
+      <workItem from="1645959785740" duration="1049000" />
+      <workItem from="1645966616738" duration="104000" />
+      <workItem from="1645966853305" duration="224000" />
+      <workItem from="1645967099047" duration="51000" />
+      <workItem from="1645970576195" duration="617000" />
+      <workItem from="1645973860992" duration="1751000" />
+      <workItem from="1645975823048" duration="1867000" />
+      <workItem from="1645977725743" duration="394000" />
+    </task>
+    <task id="LOCAL-00001" summary="test commit">
+      <created>1645888173043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645888173043</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update files location">
+      <created>1645888813820</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645888813820</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update files location">
+      <created>1645889149999</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645889149999</updated>
+    </task>
+    <task id="LOCAL-00004" summary="update files location">
+      <created>1645889414447</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1645889414447</updated>
+    </task>
+    <task id="LOCAL-00005" summary="update css">
+      <created>1645889861557</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1645889861557</updated>
+    </task>
+    <task id="LOCAL-00006" summary="update css">
+      <created>1645890773530</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1645890773530</updated>
+    </task>
+    <task id="LOCAL-00007" summary="update html">
+      <created>1645893957262</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1645893957262</updated>
+    </task>
+    <task id="LOCAL-00008" summary="update html">
+      <created>1645894080356</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1645894080371</updated>
+    </task>
+    <task id="LOCAL-00009" summary="update html, css">
+      <created>1645897765592</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1645897765592</updated>
+    </task>
+    <task id="LOCAL-00010" summary="update html, css">
+      <created>1645958183999</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1645958183999</updated>
+    </task>
+    <task id="LOCAL-00011" summary="update html, css">
+      <created>1645976417715</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1645976417715</updated>
+    </task>
+    <task id="LOCAL-00012" summary="update html, css">
+      <created>1645976770870</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1645976770870</updated>
+    </task>
+    <task id="LOCAL-00013" summary="update html, css">
+      <created>1645976892847</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1645976892847</updated>
+    </task>
+    <task id="LOCAL-00014" summary="update html, css">
+      <created>1645977010371</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1645977010371</updated>
+    </task>
+    <task id="LOCAL-00015" summary="update html, css">
+      <created>1645977261995</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1645977261995</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test commit" />
+    <MESSAGE value="update files location" />
+    <MESSAGE value="add assets" />
+    <MESSAGE value="update css" />
+    <MESSAGE value="update html" />
+    <MESSAGE value="test" />
+    <MESSAGE value="update html, css" />
+    <option name="LAST_COMMIT_MESSAGE" value="update html, css" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="845" y="383" key="#Notifications" timestamp="1645977494456">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="845" y="383" key="#Notifications/0.0.1920.1040@0.0.1920.1040" timestamp="1645977494456" />
+    <state x="841" y="240" key="RollbackChangesDialog" timestamp="1645976884180">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="841" y="240" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1645976884180" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1645977487343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1645977487343" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1645977266332">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1645977266332" />
+    <state x="736" y="341" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1645958189636" />
+    <state x="761" y="715" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1645974440969">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="761" y="715" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1645974440969" />
+  </component>
+</project>
