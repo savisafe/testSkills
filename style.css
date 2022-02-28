@@ -6,14 +6,141 @@ body {
 
 /*320+*/
 .header-img{
-    width: 320px;
+    width: 100%;
     height: 221px;
-    background: url("assets/img/header-img-320.png");
+    background: url("assets/img/header-img-320.png") no-repeat;
+
+}
+
+.container{
+    width: 100%;
+}
+
+.container-button-install-app{
+    margin-top: 30px;
+    width: 246px;
+    height: 64px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    background: #ED0E00;
+    border-radius: 10px;
+    border: none;
+}
+
+.button-install-app{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-right: 15px;
+
+}
+
+.button-install-app__logo{
+    width: 42px;
+    height: 42px;
+    background: url("assets/img/logo.png") no-repeat;
+    background-size: contain;
+}
+
+.button-install-app__text{
+    font-family: "Montserrant";
+    font-size: 18px;
+    font-style: normal;
+    font-weight: normal;
+    color: white;
+}
+
+.container-details{
+    display: block;
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 20px;
+}
+
+/*.title-summary{*/
+/*    font-size: 24px;*/
+/*    line-height: 100%;*/
+/*    font-family: "Geometria";*/
+/*    font-style: normal;*/
+/*    font-weight: bold;*/
+/*}*/
+
+details > summary {
+    font-size: 24px;
+    line-height: 100%;
+    font-family: "Geometria";
+    font-style: normal;
+    font-weight: bold;
+    border: 0;
+    cursor: pointer;
+}
+
+details > div {
+    border: 0;
+}
+details[open] > summary {
+    border: 0;
+}
+
+.container-details-wrapper{
+    margin-top: 40px;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-family: "Geometria";
+    font-style: normal;
+    font-weight: normal;
+}
+
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+
+.block{
+    display: block;
+}
+
+.img-qr{
+    width: 112px;
+    height: 112px;
+    background: url("assets/img/img-qr.png") no-repeat;
+}
+
+.img-google-play{
+    margin-top: 0;
+    display: block;
+    width: 103px;
+    height: 29px;
+    background: url("assets/img/google-play.png");
+}
+
+.img-app-store{
+    margin-top: 11px;
+    display: block;
+    width: 103px;
+    height: 29px;
+    background: url("assets/img/app-store.png");
+}
+
+.img-app-gallery{
+    margin-top: 11px;
+    display: block;
+    width: 103px;
+    height: 29px;
+    background: url("assets/img/app-gallery.png");
 }
 
 @font-face {
     font-family: "Geometria";
     src: url("assets/fonts/geometria_medium.otf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: "Montserrant";
+    src: url("assets/fonts/Montserrat-Bold.ttf") format("truetype");
     font-style: normal;
     font-weight: normal;
 }

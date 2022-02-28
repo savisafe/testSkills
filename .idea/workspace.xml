@@ -11,7 +11,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="479ebf2f-61a7-4fbe-a738-d2afbc10baf9" name="Default Changelist" comment="test">
+      <change afterPath="$PROJECT_DIR$/assets/img/logo.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/geometria_bold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/geometria_bolditalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/geometria_extrabold.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/geometria_light.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/geometria_lightitalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/geometria_mediumitalic.otf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +55,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -84,7 +92,12 @@
       <workItem from="1645973860992" duration="1751000" />
       <workItem from="1645975823048" duration="1867000" />
       <workItem from="1645977725743" duration="638000" />
-      <workItem from="1645978701839" duration="443000" />
+      <workItem from="1645978701839" duration="817000" />
+      <workItem from="1646036338304" duration="547000" />
+      <workItem from="1646036949388" duration="178000" />
+      <workItem from="1646037168565" duration="1197000" />
+      <workItem from="1646038897265" duration="6098000" />
+      <workItem from="1646046280799" duration="925000" />
     </task>
     <task id="LOCAL-00001" summary="test commit">
       <created>1645888173043</created>
@@ -198,7 +211,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645978217171</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="test">
+      <created>1645979187787</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1645979187787</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
